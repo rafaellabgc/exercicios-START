@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\bin\Debug\SeriaParaMalharStart.Algoritmo28.exe.config
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\bin\Debug\SeriaParaMalharStart.Algoritmo28.exe
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\bin\Debug\SeriaParaMalharStart.Algoritmo28.pdb
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\obj\Debug\SeriaParaMalharStart.Algoritmo28.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\obj\Debug\SeriaParaMalharStart.Algoritmo28.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\obj\Debug\SeriaParaMalharStart.Algoritmo28.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\obj\Debug\SeriaParaMalharStart.Algoritmo28.exe
+C:\Users\rafae\source\repos\SerieParaMalharStart\SeriaParaMalharStart.Algoritmo28\obj\Debug\SeriaParaMalharStart.Algoritmo28.pdb

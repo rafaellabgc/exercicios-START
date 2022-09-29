@@ -1,0 +1,8 @@
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\SerieParaMalharStart.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\SerieParaMalharStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\SerieParaMalharStart.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\SerieParaMalharStart.exe.config
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\SerieParaMalharStart.exe
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\bin\Debug\SerieParaMalharStart.pdb
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\SerieParaMalharStart.exe
+C:\Users\rafae\source\repos\SerieParaMalharStart\SerieParaMalharStart\obj\Debug\SerieParaMalharStart.pdb
